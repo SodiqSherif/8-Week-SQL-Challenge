@@ -1,2 +1,2 @@
 # 8-Week-SQL-Challenge
-This repository hosts the 8 weeks SQL Challenge by Danny Ma focusing on 1 Challenge after the other
+This repository hosts the 8 weeks SQL Challenge by Danny Ma focusing on 1 Challenge after the other. The case studies can be found on https://8weeksqlchallenge.com/
